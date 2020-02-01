@@ -1,0 +1,51 @@
+h1 {
+    border: 3px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+div {
+    border: 3px solid red;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.bordergreen{
+    color: green;
+}
+
+.borderblue {
+    border:4px dotted blue;
+    padding: 30px;
+    color: blue;
+
+}
+
+.listi1 li{
+    margin: 1em;
+    padding: 1em;
+    border: 3px dashed green;
+}
+
+.listi2 ul{
+    border: 4px dotted blue;
+    font-family: sans-serif;
+    display: inline;
+    margin: 1em;
+    padding: 1em;
+
+}
+
+.in_line_block ul{
+    border: 4px dotted red;
+    display: inline-block;
+    margin: 1em;
+    padding: 1em;
+
+}
